@@ -16,6 +16,11 @@ def index (request):
     context = {"año": 2024} 
     return render(request, "core/index.html", context)
 
+def ver_notas(request):
+    Lista_notas =[10, 8, 5, 9, 1]
+    return render(request, "core/notas.html", {"notas": Lista_notas})
+
+
  
 
 # Create your views here.
