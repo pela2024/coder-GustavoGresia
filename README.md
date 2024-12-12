@@ -1,15 +1,23 @@
-# curso de Python 
+# Pre-entrega
 
-## Comision
+## Curso
 
-Comision:60095
-
-Profesor: Esteban Acevedo
-
-Linkedin: Linkedin.com/in/esteban-acevedo-aberastain
+-curso de Python
+-Comision 60095
+-Porf. Esteban Acevedo
+-Tutor. Nicolas Ozauna 
 
 ## Alumno 
+-Gresia Cristian Gustavo 
+-PROYECTO : Almacen de picadas 
 
-Nombre : Gustavo Cristian Gresia
+## Objetivos del proyecto 
 
-Linkedin: 
+*1- armar una pagina web para un comercio
+*2- poner en funcionamiento la web con un carrito de compras
+
+ ## aspectos tecnicos 
+
+ He usado django , creando 3 modelos 
+
+ ## Puntos a mejorar 
